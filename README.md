@@ -1,4 +1,4 @@
-# Animepahe-Scraper
+# Animekaizoku-Scraper
 
 A simple scipt to scrape and scrape links from website https://animekaizoku.com. Made this script to bypass annoying pop up and porn ads.
 
