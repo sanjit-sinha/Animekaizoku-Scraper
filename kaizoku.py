@@ -165,3 +165,6 @@ def WEBPAGE_GRABBER(url: str):
     		  
 if __name__ == "__main__":
 	WEBPAGE_GRABBER(input("Enter the anime link wich you want to scrape from animekaizoku.com (ex: https://animekaizoku.com/aoashi-49052/):  "))
+	
+	
+	
