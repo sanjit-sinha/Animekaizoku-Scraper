@@ -1,6 +1,6 @@
 # Animekaizoku-Scraper
 
-A simple scipt to scrape and scrape links from website https://animekaizoku.com. Made this script to bypass annoying pop up and porn ads.
+A simple scipt to scrape links from https://animekaizoku.com. I made this script to bypass annoying pop up and porn ads.
 
 - support ouo shortner bypass.
 - It can scrape direct download links (ddl) + worker links + gdrive links.
